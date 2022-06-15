@@ -1,0 +1,138 @@
+.container {
+    width: 1200px;
+    display: block;
+    margin: auto;
+}
+
+.logo {
+    display: block;
+    margin: auto;
+}
+
+.search {
+    width: 1198px;
+    height: 65px;
+    text-align: center;
+    padding: 1px;
+    background-color: #EEEEEE;
+}
+
+.box {
+    width: 300px;
+    padding: 1px 2px;
+}
+
+.card1 {
+    float: left;
+    width: 442px ;
+    height: 80px;
+    background-color: #7EE5DA;
+    padding: 1px;
+    margin-top: 1px;
+    margin-right: 1px;
+    text-align: center;
+    font-size: 16px;
+}
+
+.subcard1 {
+    width: 442px;
+    padding: 10px 0;
+}
+
+.card2 {
+    float: left;
+    width: 308px;
+    height: 80px;
+    background-color: #7EE5DA;
+    padding: 1px;
+    margin-top: 1px;
+    text-align: center;
+    font-size: 13px;
+}
+
+.subcard2 {
+    width: 308px;
+    padding: 10px 0;
+}
+
+.card3 {
+    float: left;
+    width: 442px;
+    height: 80px;
+    background-color: #7EE5DA;
+    padding: 1px;
+    margin-top: 1px;
+    margin-left: 1px;
+    text-align: center;
+    font-size: 13px;
+}
+
+.subcard3 {
+    width: 442px;
+    padding: 2px 0;
+}
+
+.copy {
+    margin-top: 100px;
+    text-align: center;
+    font-size: 13px;
+}
+
+
+/* .container {
+    width: 90%;
+    display: block;
+    margin: auto;
+}
+
+.logo {
+    display: block;
+    margin: auto;
+}
+
+.search {
+    margin-top: 1px;
+    text-align: center;
+    padding: 1px 0;
+    background-color: #EEEEEE;
+}
+
+.box {
+    padding: 0 6%;
+}
+.card1 {
+    float: left;
+    width: 37.4%;
+    background-color: #7EE5DA;
+    padding: 1.93% 0;
+    margin-top: 1px;
+    margin-right: 0.1%;
+    text-align: center;
+    font-size: 16px;
+}
+
+.card2 {
+    float: left;
+    width: 25%;
+    background-color: #7EE5DA;
+    padding: 1.73% 0;
+    margin-top: 1px;
+    text-align: center;
+    font-size: 13px;
+}
+
+.card3 {
+    float: left;
+    width: 37.4%;
+    background-color: #7EE5DA;
+    padding: 1.23% 0;
+    margin-top: 1px;
+    margin-left: 0.1%;
+    text-align: center;
+    font-size: 13px;
+}
+
+.copy {
+    margin-top: 120px;
+    text-align: center;
+} */
